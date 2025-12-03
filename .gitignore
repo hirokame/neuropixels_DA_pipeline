@@ -6,6 +6,7 @@
 *.h5
 *.hdf5
 *.bin
+*.dat
 
 # SpikeInterface outputs & waveform extractions
 pipeline/spikeinterface_waveform_extraction/
